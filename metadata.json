@@ -1,7 +1,0 @@
-{
-  "name": "JARVIS Holo-HUD",
-  "description": "A cyberpunk holographic interface featuring real-time hand tracking, 3D interactive earth, and gesture-controlled UI elements.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
